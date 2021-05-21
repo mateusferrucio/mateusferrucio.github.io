@@ -1,1 +1,0 @@
-$(function(){"use strict";$(window).on("scroll",function(){$(window).scrollTop()>TOTOP_LINK_TOP_DISTANCE?$(".totop").show():$(".totop").hide()})});
